@@ -1,0 +1,52 @@
+body {
+    background-color: hsl(228, 33%, 97%);
+
+}
+
+.comments {
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: solid;
+    border-radius: 5px;
+    background-color: white;
+    font-family: 'Rubik', sans-serif;
+    color: hsl(211, 10%, 45%);
+}
+.proPic {
+    margin-top: -60px;
+    margin-left: 55px;
+    margin-right: 97%;
+}
+.usrName {
+    font-weight: bold;
+    margin-top: -45px;
+    margin-left: 125px;
+    margin-right: 97%;
+}
+.dates {
+    font-family: 'Rubik', sans-serif;
+    color: hsl(211, 10%, 45%);
+    margin-top: -20px;
+    margin-left: 235px;
+    margin-right: 50%;
+}
+.votes {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 96%;
+    border-radius: 5px;
+}
+.messages {
+    padding: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.replyNme{
+    font-weight: bold;
+}
+#reply{
+    margin-left: 30%;
+}
